@@ -15,7 +15,7 @@ class Product(BaseModel):
 
 
 @app.get(
-  path='/packing/sorting-lane',
+  path='/users',
   status_code=status.HTTP_200_OK
 )
 def sorting_lane(
