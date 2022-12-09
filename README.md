@@ -8,3 +8,5 @@ docker run -it -d --rm -p 8001:8000 ci
 
 ## valide la connecion
 en tu local corra  http://127.0.0.1:8001/users
+
+##validation de connection de jenkins
